@@ -7,7 +7,7 @@ Prerequisits:
 	* Python 3.8 <=  
 	* MATLAB (any version)  
 You can then install by running the following pip command:  
-> pip install mat_wrapper  
+> pip install mat-wrapper  
 
 ## Usage  
 
