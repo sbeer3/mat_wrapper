@@ -12,13 +12,13 @@ Requirements:
 * Picture from [Install MATLAB Engine Python](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html#responsive_offcanvas)  
 
 You can then install by running the following pip command:  
-> pip install mat-wrapper  
+> pip install mat_wrap  
 
 ## Usage  
 
 ### Initialization  
-> import matlab_wrapper_python  
-> wrapper = mat_wrapper.wrapper()
+> from mat_wrap import mat_wrap  
+> wrapper = mat_wrap.wrapper()
 
 ### Basic Functionality  
 > wrapper.addToPath("directory of files being used") #Can include as many as you want  
