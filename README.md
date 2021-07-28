@@ -3,9 +3,13 @@
 * Run a matlab script file through a python script  
 
 ## Installation  
-Prerequisits:  
+Requirements:  
 	* Python 3.8 <=  
-	* MATLAB (any version)  
+	* MATLAB (any version)
+First you must install the matlab engine:
+	![image](https://user-images.githubusercontent.com/55168674/127377377-e65c80d9-249c-4405-b11d-db5ec97b1ea1.png)
+	* Picture from [Install MATLAB Engine Python](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html#responsive_offcanvas)
+
 You can then install by running the following pip command:  
 > pip install mat-wrapper  
 
