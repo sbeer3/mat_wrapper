@@ -32,3 +32,7 @@ MATLAB is developed and produced by [MathWorks](https://www.mathworks.com/)
 ## Liscense  
 
 Liscensed under GNU General Public License v3 or later  
+
+## Contact  
+
+If you have any questions or concerns, please feel free to email: sbeer3@uwyo.edu
