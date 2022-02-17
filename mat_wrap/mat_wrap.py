@@ -1,12 +1,12 @@
-Imports the matlab engine
+# Imports the matlab engine
 print("before import")
 import matlab.engine
 import os, sys 
 print("before eng")
-creates an instance of the matlab engine
+# creates an instance of the matlab engine
 eng = matlab.engine.start_matlab()
 print("after eng")
-defines the wrapper class
+# defines the wrapper class
 
 def stuff():
 	print("stuff")
